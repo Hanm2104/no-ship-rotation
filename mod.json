@@ -1,0 +1,9 @@
+{
+    "geode": "5.7.1",
+    "id": "com.Minh1011.noshiprotation",
+    "version": "1.0.0",
+    "name": "No Ship Rotation",
+    "developer": "Minh1011",
+    "description": "Lock ship rotation.",
+    "dependencies": []
+}
